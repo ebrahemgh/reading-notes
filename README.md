@@ -14,4 +14,4 @@
 - [ ]  There's No Point in Trying if I'm Going to Fail
 - [x]   I will try until I will success
 ## here you will find a link that have some advices :
-(https://wabisabilearning.com/blogs/mindfulness-wellbeing/fixed-mindset-examples)
+**(https://wabisabilearning.com/blogs/mindfulness-wellbeing/fixed-mindset-examples)**
