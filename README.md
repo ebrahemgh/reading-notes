@@ -9,4 +9,5 @@ there is the cotent :
 | read1          | [text editor](read-01)  |     
 | read2a         | [markdown](read-02a)|
 | read2b          | [control version](read-02b)|
-
+| read3         | [Html 5](read-03)|
+| read4a         | [javascript operations](read-04a)|
