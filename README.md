@@ -11,3 +11,6 @@ there is the cotent :
 | read2b          | [control version](read-02b)|
 | read3         | [Html 5](read-03)|
 | read4a         | [javascript operations](read-04a)|
+| read05         | [loops and operations](read-05)|
+
+
