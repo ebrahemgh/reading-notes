@@ -10,7 +10,7 @@ there is more than one comparesion operaters which is :
 
 logical operators will return for you true or false 
 && and
-|| or
+|| or 1
 ! not
 
 loops 

@@ -12,5 +12,6 @@ there is the cotent :
 | read3         | [Html 5](read-03)|
 | read4a         | [javascript operations](read-04a)|
 | read05         | [loops and operations](read-05)|
+| read06         | [html and css colors](read-06)|
 
 
