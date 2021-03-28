@@ -14,5 +14,8 @@ there is the cotent :
 | read05         | [loops and operations](class-01/read-05)|
 | read06         | [html and css colors](class-01/read-06)|
 
-
+reading notes for 201:
+| Addignment     | Description |
+| -----------    | ----------- |
+| read02         | [html,css and javascript](class-02/read-02)  | 
    
