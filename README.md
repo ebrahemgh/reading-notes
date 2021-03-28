@@ -15,6 +15,7 @@ there is the cotent :
 | read06         | [html and css colors](class-01/read-06)|
 
 reading notes for 201:
+
 | Addignment     | Description |
 | -----------    | ----------- |
 | read02         | [html,css and javascript](class-02/read-02)  | 
