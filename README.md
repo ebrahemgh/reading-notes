@@ -6,12 +6,13 @@ there is the cotent :
 
 | Addignment     | Description |
 | -----------    | ----------- |
-| read1          | [text editor](read-01)  |     
-| read2a         | [markdown](read-02a)|
-| read2b          | [control version](read-02b)|
-| read3         | [Html 5](read-03)|
-| read4a         | [javascript operations](read-04a)|
-| read05         | [loops and operations](read-05)|
-| read06         | [html and css colors](read-06)|
+| read1          | [text editor](class-01/read-01)  |     
+| read2a         | [markdown](class-01/read-02a)|
+| read2b          | [control version](class-01/read-02b)|
+| read3         | [Html 5](class-01/read-03)|
+| read4a         | [javascript operations](class-01/read-04a)|
+| read05         | [loops and operations](class-01/read-05)|
+| read06         | [html and css colors](class-01/read-06)|
 
 
+   
