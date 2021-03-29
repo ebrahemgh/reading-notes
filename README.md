@@ -19,6 +19,6 @@ reading notes for 201:
 | Addignment     | Description |
 | -----------    | ----------- |
 | read02         | [html,css and javascript](class-02/read-02)  | 
-| read03       | [html,css and javascript](class-02/read-03)  | 
+| read03       | [html,css lists and boxes](class-02/read-03)  | 
 
    
