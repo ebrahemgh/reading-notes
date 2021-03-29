@@ -18,7 +18,9 @@ reading notes for 201:
 
 | Addignment     | Description |
 | -----------    | ----------- |
+| read01      | ["html5 an javascript intro"](class-02/read-01)  | 
 | read02         | [html,css and javascript](class-02/read-02)  | 
 | read03       | [html,css lists and boxes](class-02/read-03)  | 
+
 
    
