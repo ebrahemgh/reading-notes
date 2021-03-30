@@ -21,6 +21,6 @@ reading notes for 201:
 | read01      | ["html5 an javascript intro"](class-02/read-01)  | 
 | read02         | [html,css and javascript](class-02/read-02)  | 
 | read03       | [html,css lists and boxes](class-02/read-03)  | 
-
+| read04       | [links and layouts](class-02/read-04)  | 
 
    
