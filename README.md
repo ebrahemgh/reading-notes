@@ -22,5 +22,7 @@ reading notes for 201:
 | read02         | [html,css and javascript](class-02/read-02)  | 
 | read03       | [html,css lists and boxes](class-02/read-03)  | 
 | read04       | [links and layouts](class-02/read-04)  | 
+| read05      | [images,colors,texts,](class-02/read-05)  | 
+
 
    
