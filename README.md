@@ -24,7 +24,7 @@ reading notes for 201:
 | read04       | [links and layouts](class-02/read-04)  | 
 | read05      | [images,colors,texts,](class-02/read-05)  | 
 | read06     | [domain, object](class-02/read-06)  | 
-| read07     | [domain, object](class-02/read-07)  | 
+| read07     | [table, object](class-02/read-07)  | 
 
 
 
