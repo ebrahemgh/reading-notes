@@ -26,6 +26,7 @@ reading notes for 201:
 | read06     | [domain, object](class-02/read-06)  | 
 | read07     | [table, object](class-02/read-07)  | 
 | read08     | [css](class-02/read-08)  | 
+| read09     | [images,events](class-02/read-09)  | 
 
 
 
