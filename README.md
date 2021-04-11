@@ -28,6 +28,8 @@ reading notes for 201:
 | read08     | [css](class-02/read-08)  | 
 | read09     | [images,events](class-02/read-09)  | 
 | read10     | [error handling](class-02/read-10)  | 
+| read11     | [images and information](class-02/read-11)  | 
+
 
 
 
