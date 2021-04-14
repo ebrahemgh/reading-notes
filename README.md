@@ -30,6 +30,7 @@ reading notes for 201:
 | read10     | [error handling](class-02/read-10)  | 
 | read11     | [images and information](class-02/read-11)  | 
 | read12     | [charts](class-02/read-12)  | 
+| read13     | [local storage](class-02/read-13)  | 
 
 
 
