@@ -31,6 +31,7 @@ reading notes for 201:
 | read11     | [images and information](class-02/read-11)  | 
 | read12     | [charts](class-02/read-12)  | 
 | read13     | [local storage](class-02/read-13)  | 
+| read14     | [animation](class-02/read-14)  | 
 
 
 
