@@ -1,0 +1,10 @@
+When Rozovsky arrived on campus, she was assigned to a study group carefully engineered by the school to foster tight bonds. Study groups have become a rite of passage at M.B.A
+ programs, a way for students to practice working in teams and a reflection of the increasing demand for employees who can adroitly navigate group dynamics.
+
+ A worker today might start the morning by collaborating with a team of engineers, then send emails to colleagues marketing a new brand, then jump on a conference call planning an entirely different product line, while also 
+
+juggling team meetings with accounting and the party-planning committee. To prepare students for that complex world, business schools around the country have revised their curriculums to emphasize team-focused learning.
+
+
+
+
